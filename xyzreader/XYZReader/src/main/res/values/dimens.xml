@@ -8,4 +8,11 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+
+    <dimen name="default_extra_small_size">2dp</dimen>
+    <dimen name="default_large_size">16dp</dimen>
+    <dimen name="default_medium_size">8dp</dimen>
+    <dimen name="default_small_size">4dp</dimen>
+    <dimen name="action_bar_collapsing">166dp</dimen>
+
 </resources>
